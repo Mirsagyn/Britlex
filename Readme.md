@@ -1,3 +1,3 @@
 # Deployed link
 
-https://github.com/Mirsagyn/Britlex.git
+https://mirsagyn.github.io/Britlex/
